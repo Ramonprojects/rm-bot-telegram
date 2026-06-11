@@ -30,7 +30,7 @@ const shareCode = '&shareCode=G3RY6W4IMDW'
 
 const afp = '&afp4=bot'
 
-const source = '&customer_id'
+const source = '&user_id='  
 
 const destino = url+shareCode+afp+source
 
