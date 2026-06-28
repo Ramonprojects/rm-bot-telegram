@@ -26,7 +26,7 @@
                                                                                                                                                                                          
     const url = 'https://go.aff.esportiva.bet/nvgf8026?campaign_id=29908'
 
-    const shareCode = '&shareCode=C28QU1JCY4M'
+    const shareCode = '&shareCode=NKW9DAB072J'
     
     const afp = '&afp4=bot'
     
